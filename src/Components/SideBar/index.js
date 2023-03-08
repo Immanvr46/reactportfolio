@@ -43,7 +43,7 @@ return(
 <div className="cardmain">
     <p className="headerbckg">TECHNOLOGIES & TOOLS </p>
 
-         <img  className="logos" src={img2}/> 
+         <img  className="logos" alt="loading" src={img2}/> 
     
     </div>
 <div className="cardmain"> 
