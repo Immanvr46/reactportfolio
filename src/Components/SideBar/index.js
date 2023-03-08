@@ -2,8 +2,6 @@ import React from "react";
 import img2 from "../../images/icons.jpeg"
 import img1 from"../../images/photo.jpeg"
 import './sideBar.css';
-import HomeSharpIcon from '@mui/icons-material/HomeSharp';
-import ContactPageSharpIcon from '@mui/icons-material/ContactPageSharp';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
@@ -14,28 +12,6 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 const SideBar = () => {
 return(
 
-    
-    <div className="mainone">
-        
-   
-
-
-<nav>
-    <ul>
-        <li>  <span><HomeSharpIcon/>home</span></li>
-        <br/>
-        
-        <li> <span>< ContactPageSharpIcon/>contact</span></li>
-        <br/>
-        
-        <li> <span>portfolio</span></li>
-        
-    
-    
-    
-    </ul>
-    
-</nav>
 
 
 <div  className="content">
@@ -103,7 +79,6 @@ user experience (UX) design, and web security,I am committed to staying up-to-da
 
 
 
-</div>
 
 </div>
 )
