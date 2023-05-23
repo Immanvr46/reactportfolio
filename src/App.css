@@ -1,7 +1,7 @@
 
 .App{
     background-color: black;
-    background-image:url("../src/images/mern.jpg");
+   
 
     object-fit: cover;
     background-repeat: no-repeat;
